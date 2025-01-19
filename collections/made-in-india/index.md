@@ -1,10 +1,11 @@
 ---
 items:
  - TheAlgorithms
+ - odpf
  - hoppscotch/hoppscotch
  - anuraghazra/github-readme-stats
  - hasura/graphql-engine
- - geekyants/nativebase
+ - GeekyAnts/NativeBase
  - kovidgoyal/calibre
  - frappe/erpnext
  - chatwoot/chatwoot
@@ -18,11 +19,11 @@ items:
  - frappe/frappe
  - spacecloud-io/space-cloud
  - shivammathur/setup-php
- - infracloudio/botkube
+ - kubeshop/botkube
  - SigNoz/signoz
  - uvdesk/community-skeleton
  - CRED-CLUB/synth-android
- - krishdevdb/reseter.css
+ - kkrishguptaa/reseter.css
  - pupilfirst/pupilfirst
  - kadalu/kadalu
  - project-sunbird
@@ -32,6 +33,25 @@ items:
  - ToolJet/ToolJet
  - ParthJadhav/Tkinter-Designer
  - dr5hn/countries-states-cities-database
+ - glific/glific
+ - gautamkrishnar/blog-post-workflow
+ - devtron-labs/devtron
+ - skytable/skytable
+ - firstcontributions/first-contributions
+ - CircuitVerse/CircuitVerse
+ - mayankmetha/Rucky
+ - resuminator
+ - krayin/laravel-crm
+ - ajeetdsouza/zoxide
+ - Jaysmito101/TerraForge3D
+ - keploy/keploy
+ - LambdaTest/test-at-scale
+ - arnav-kr/json-formatter
+ - abhimanyu003/sttr
+ - juspay/hyperswitch
+ - nammayatri/nammayatri
+ - kubewall/kubewall
+ - Pujo-Atlas-Kolkata
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
